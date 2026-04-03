@@ -1,0 +1,362 @@
+[
+  {
+    "titulo": "Crazy in Love",
+    "artista": "Beyonce",
+    "anio": 2003,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/beyonce_crazy_in_love/drums.mp3",
+      "bass": "separated/htdemucs/beyonce_crazy_in_love/bass.mp3",
+      "other": "separated/htdemucs/beyonce_crazy_in_love/other.mp3",
+      "vocals": "separated/htdemucs/beyonce_crazy_in_love/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Yeah",
+    "artista": "Usher",
+    "anio": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/usher_yeah/drums.mp3",
+      "bass": "separated/htdemucs/usher_yeah/bass.mp3",
+      "other": "separated/htdemucs/usher_yeah/other.mp3",
+      "vocals": "separated/htdemucs/usher_yeah/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "In Da Club",
+    "artista": "50 Cent",
+    "anio": 2003,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/50_cent_in_da_club/drums.mp3",
+      "bass": "separated/htdemucs/50_cent_in_da_club/bass.mp3",
+      "other": "separated/htdemucs/50_cent_in_da_club/other.mp3",
+      "vocals": "separated/htdemucs/50_cent_in_da_club/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Boulevard of Broken Dreams",
+    "artista": "Green Day",
+    "anio": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/green_day_boulevard_of_broken_dreams/drums.mp3",
+      "bass": "separated/htdemucs/green_day_boulevard_of_broken_dreams/bass.mp3",
+      "other": "separated/htdemucs/green_day_boulevard_of_broken_dreams/other.mp3",
+      "vocals": "separated/htdemucs/green_day_boulevard_of_broken_dreams/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Mr Brightside",
+    "artista": "The Killers",
+    "anio": 2003,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/the_killers_mr_brightside/drums.mp3",
+      "bass": "separated/htdemucs/the_killers_mr_brightside/bass.mp3",
+      "other": "separated/htdemucs/the_killers_mr_brightside/other.mp3",
+      "vocals": "separated/htdemucs/the_killers_mr_brightside/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Hey Ya",
+    "artista": "OutKast",
+    "anio": 2003,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/outkast_hey_ya/drums.mp3",
+      "bass": "separated/htdemucs/outkast_hey_ya/bass.mp3",
+      "other": "separated/htdemucs/outkast_hey_ya/other.mp3",
+      "vocals": "separated/htdemucs/outkast_hey_ya/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Clocks",
+    "artista": "Coldplay",
+    "anio": 2002,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/coldplay_clocks/drums.mp3",
+      "bass": "separated/htdemucs/coldplay_clocks/bass.mp3",
+      "other": "separated/htdemucs/coldplay_clocks/other.mp3",
+      "vocals": "separated/htdemucs/coldplay_clocks/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Since U Been Gone",
+    "artista": "Kelly Clarkson",
+    "anio": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/kelly_clarkson_since_u_been_gone/drums.mp3",
+      "bass": "separated/htdemucs/kelly_clarkson_since_u_been_gone/bass.mp3",
+      "other": "separated/htdemucs/kelly_clarkson_since_u_been_gone/other.mp3",
+      "vocals": "separated/htdemucs/kelly_clarkson_since_u_been_gone/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Lose Yourself",
+    "artista": "Eminem",
+    "anio": 2002,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/eminem_lose_yourself/drums.mp3",
+      "bass": "separated/htdemucs/eminem_lose_yourself/bass.mp3",
+      "other": "separated/htdemucs/eminem_lose_yourself/other.mp3",
+      "vocals": "separated/htdemucs/eminem_lose_yourself/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Beautiful Day",
+    "artista": "U2",
+    "anio": 2000,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/u2_beautiful_day/drums.mp3",
+      "bass": "separated/htdemucs/u2_beautiful_day/bass.mp3",
+      "other": "separated/htdemucs/u2_beautiful_day/other.mp3",
+      "vocals": "separated/htdemucs/u2_beautiful_day/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Rolling in the Deep",
+    "artista": "Adele",
+    "anio": 2010,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/adele_rolling_in_the_deep/drums.mp3",
+      "bass": "separated/htdemucs/adele_rolling_in_the_deep/bass.mp3",
+      "other": "separated/htdemucs/adele_rolling_in_the_deep/other.mp3",
+      "vocals": "separated/htdemucs/adele_rolling_in_the_deep/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Uptown Funk",
+    "artista": "Mark Ronson Bruno Mars",
+    "anio": 2014,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/mark_ronson_bruno_mars_uptown_funk/drums.mp3",
+      "bass": "separated/htdemucs/mark_ronson_bruno_mars_uptown_funk/bass.mp3",
+      "other": "separated/htdemucs/mark_ronson_bruno_mars_uptown_funk/other.mp3",
+      "vocals": "separated/htdemucs/mark_ronson_bruno_mars_uptown_funk/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Shape of You",
+    "artista": "Ed Sheeran",
+    "anio": 2017,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/ed_sheeran_shape_of_you/drums.mp3",
+      "bass": "separated/htdemucs/ed_sheeran_shape_of_you/bass.mp3",
+      "other": "separated/htdemucs/ed_sheeran_shape_of_you/other.mp3",
+      "vocals": "separated/htdemucs/ed_sheeran_shape_of_you/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Happy",
+    "artista": "Pharrell Williams",
+    "anio": 2013,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/pharrell_williams_happy/drums.mp3",
+      "bass": "separated/htdemucs/pharrell_williams_happy/bass.mp3",
+      "other": "separated/htdemucs/pharrell_williams_happy/other.mp3",
+      "vocals": "separated/htdemucs/pharrell_williams_happy/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Chandelier",
+    "artista": "Sia",
+    "anio": 2014,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/sia_chandelier/drums.mp3",
+      "bass": "separated/htdemucs/sia_chandelier/bass.mp3",
+      "other": "separated/htdemucs/sia_chandelier/other.mp3",
+      "vocals": "separated/htdemucs/sia_chandelier/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Get Lucky",
+    "artista": "Daft Punk",
+    "anio": 2013,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/daft_punk_get_lucky/drums.mp3",
+      "bass": "separated/htdemucs/daft_punk_get_lucky/bass.mp3",
+      "other": "separated/htdemucs/daft_punk_get_lucky/other.mp3",
+      "vocals": "separated/htdemucs/daft_punk_get_lucky/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Royals",
+    "artista": "Lorde",
+    "anio": 2013,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/lorde_royals/drums.mp3",
+      "bass": "separated/htdemucs/lorde_royals/bass.mp3",
+      "other": "separated/htdemucs/lorde_royals/other.mp3",
+      "vocals": "separated/htdemucs/lorde_royals/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Someone Like You",
+    "artista": "Adele",
+    "anio": 2011,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/adele_someone_like_you/drums.mp3",
+      "bass": "separated/htdemucs/adele_someone_like_you/bass.mp3",
+      "other": "separated/htdemucs/adele_someone_like_you/other.mp3",
+      "vocals": "separated/htdemucs/adele_someone_like_you/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Shallow",
+    "artista": "Lady Gaga",
+    "anio": 2018,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/lady_gaga_shallow/drums.mp3",
+      "bass": "separated/htdemucs/lady_gaga_shallow/bass.mp3",
+      "other": "separated/htdemucs/lady_gaga_shallow/other.mp3",
+      "vocals": "separated/htdemucs/lady_gaga_shallow/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Thinking Out Loud",
+    "artista": "Ed Sheeran",
+    "anio": 2014,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/ed_sheeran_thinking_out_loud/drums.mp3",
+      "bass": "separated/htdemucs/ed_sheeran_thinking_out_loud/bass.mp3",
+      "other": "separated/htdemucs/ed_sheeran_thinking_out_loud/other.mp3",
+      "vocals": "separated/htdemucs/ed_sheeran_thinking_out_loud/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Blinding Lights",
+    "artista": "The Weeknd",
+    "anio": 2020,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/the_weeknd_blinding_lights/drums.mp3",
+      "bass": "separated/htdemucs/the_weeknd_blinding_lights/bass.mp3",
+      "other": "separated/htdemucs/the_weeknd_blinding_lights/other.mp3",
+      "vocals": "separated/htdemucs/the_weeknd_blinding_lights/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Levitating",
+    "artista": "Dua Lipa",
+    "anio": 2020,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/dua_lipa_levitating/drums.mp3",
+      "bass": "separated/htdemucs/dua_lipa_levitating/bass.mp3",
+      "other": "separated/htdemucs/dua_lipa_levitating/other.mp3",
+      "vocals": "separated/htdemucs/dua_lipa_levitating/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "drivers license",
+    "artista": "Olivia Rodrigo",
+    "anio": 2021,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/olivia_rodrigo_drivers_license/drums.mp3",
+      "bass": "separated/htdemucs/olivia_rodrigo_drivers_license/bass.mp3",
+      "other": "separated/htdemucs/olivia_rodrigo_drivers_license/other.mp3",
+      "vocals": "separated/htdemucs/olivia_rodrigo_drivers_license/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Stay",
+    "artista": "The Kid LAROI",
+    "anio": 2021,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/the_kid_laroi_stay/drums.mp3",
+      "bass": "separated/htdemucs/the_kid_laroi_stay/bass.mp3",
+      "other": "separated/htdemucs/the_kid_laroi_stay/other.mp3",
+      "vocals": "separated/htdemucs/the_kid_laroi_stay/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "As It Was",
+    "artista": "Harry Styles",
+    "anio": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/harry_styles_as_it_was/drums.mp3",
+      "bass": "separated/htdemucs/harry_styles_as_it_was/bass.mp3",
+      "other": "separated/htdemucs/harry_styles_as_it_was/other.mp3",
+      "vocals": "separated/htdemucs/harry_styles_as_it_was/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Anti-Hero",
+    "artista": "Taylor Swift",
+    "anio": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/taylor_swift_antihero/drums.mp3",
+      "bass": "separated/htdemucs/taylor_swift_antihero/bass.mp3",
+      "other": "separated/htdemucs/taylor_swift_antihero/other.mp3",
+      "vocals": "separated/htdemucs/taylor_swift_antihero/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Flowers",
+    "artista": "Miley Cyrus",
+    "anio": 2023,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/miley_cyrus_flowers/drums.mp3",
+      "bass": "separated/htdemucs/miley_cyrus_flowers/bass.mp3",
+      "other": "separated/htdemucs/miley_cyrus_flowers/other.mp3",
+      "vocals": "separated/htdemucs/miley_cyrus_flowers/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Unholy",
+    "artista": "Sam Smith",
+    "anio": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/sam_smith_unholy/drums.mp3",
+      "bass": "separated/htdemucs/sam_smith_unholy/bass.mp3",
+      "other": "separated/htdemucs/sam_smith_unholy/other.mp3",
+      "vocals": "separated/htdemucs/sam_smith_unholy/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Heat Waves",
+    "artista": "Glass Animals",
+    "anio": 2020,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/glass_animals_heat_waves/drums.mp3",
+      "bass": "separated/htdemucs/glass_animals_heat_waves/bass.mp3",
+      "other": "separated/htdemucs/glass_animals_heat_waves/other.mp3",
+      "vocals": "separated/htdemucs/glass_animals_heat_waves/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Bad Habit",
+    "artista": "Steve Lacy",
+    "anio": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/steve_lacy_bad_habit/drums.mp3",
+      "bass": "separated/htdemucs/steve_lacy_bad_habit/bass.mp3",
+      "other": "separated/htdemucs/steve_lacy_bad_habit/other.mp3",
+      "vocals": "separated/htdemucs/steve_lacy_bad_habit/vocals.mp3"
+    }
+  }
+]
