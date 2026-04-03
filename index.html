@@ -641,6 +641,7 @@ canvas { width: 100%; height: 100%; display: block; }
   100% { transform: translateY(100vh) rotate(720deg); opacity: 0; }
 }
 </style>
+<script src="https://cdn.ably.com/lib/ably.min-2.js"></script>
 </head>
 <body>
 
@@ -1136,49 +1137,82 @@ function confetti(){
   }
 }
 
-// ══ Multi ══
+// ══ Multi (Ably) ══
+const ABLY_KEY = 'xfFvUQ.pOANbw:wZX61VwET3fMs77tqfcHxMhzPjGzgr8Uj06WuBrE4G4';
+let ablyClient=null, ablyChannel=null;
+
 function genCode(){return Math.random().toString(36).substr(2,6).toUpperCase();}
+
 function crearSala(){
   playerName=document.getElementById('player-name').value.trim()||'Jugador';
   localStorage.setItem('mh_nombre',playerName);
-  roomCode=genCode();isHost=true;conectarWS();
+  roomCode=genCode();isHost=true;
+  conectarAbly();
 }
+
 function unirseASala(){
   playerName=document.getElementById('player-name').value.trim()||'Jugador';
   localStorage.setItem('mh_nombre',playerName);
   roomCode=document.getElementById('room-input').value.trim().toUpperCase();
-  if(!roomCode){toast('Ingresá un código','err');return;}
-  isHost=false;conectarWS();
+  if(!roomCode){toast('Ingresá un código de sala','err');return;}
+  isHost=false;
+  conectarAbly();
 }
-function conectarWS(){
+
+function conectarAbly(){
   try{
-    ws=new WebSocket('wss://socketsbay.com/wss/v2/1/demo/');
-    ws.onopen=()=>{
-      ws.send(JSON.stringify({type:'join',room:roomCode,name:playerName,host:isHost}));
+    ablyClient = new Ably.Realtime({key: ABLY_KEY});
+    ablyClient.connection.on('connected', ()=>{
+      ablyChannel = ablyClient.channels.get('sala-'+roomCode);
+      ablyChannel.subscribe(msg=>{
+        const d = msg.data;
+        if(d.type==='join'){
+          multiPlayers[d.name]={score:0};
+          renderPlayers();
+          toast(d.name+' se unió 👋','inf');
+        }
+        if(d.type==='start'&&!isHost){
+          decada=d.decada;shuffleQueue=[];
+          document.getElementById('chip').textContent=d.decada==='todas'?'MIX':d.decada;
+          nueva();go('sg');
+        }
+        if(d.type==='score'){
+          multiPlayers[d.name]={score:d.score};
+          renderPlayers();
+        }
+      });
+      ablyChannel.publish({type:'join',name:playerName,host:isHost});
+      multiPlayers[playerName]={score:0};
       document.getElementById('room-code-big').textContent=roomCode;
       document.getElementById('room-display').style.display='block';
-      toast('Conectado a sala '+roomCode,'ok');
-    };
-    ws.onmessage=(e)=>{
-      try{
-        const d=JSON.parse(e.data);if(d.room!==roomCode)return;
-        if(d.type==='join'){multiPlayers[d.name]={score:0};renderPlayers();}
-        if(d.type==='start'&&!isHost){decada=d.decada;shuffleQueue=[];document.getElementById('chip').textContent=d.decada==='todas'?'MIX':d.decada;nueva();go('sg');}
-        if(d.type==='score'){multiPlayers[d.name]={score:d.score};renderPlayers();}
-      }catch{}
-    };
-    ws.onerror=()=>toast('Error de conexión','err');
-    ws.onclose=()=>{ws=null;};
-  }catch{toast('Multi no disponible offline','err');}
+      renderPlayers();
+      toast('Conectado a sala '+roomCode+' ✓','ok');
+    });
+    ablyClient.connection.on('failed',()=>toast('Error de conexión','err'));
+  }catch(e){
+    toast('Error al conectar','err');
+    console.error(e);
+  }
 }
+
 function renderPlayers(){
   document.getElementById('players-box').innerHTML=
-    Object.entries(multiPlayers).map(([n,p])=>`<div class="player-chip"><span>${n}</span><span class="player-pts">${p.score}</span></div>`).join('');
+    Object.entries(multiPlayers).map(([n,p])=>
+      `<div class="player-chip"><span>${n}</span><span class="player-pts">${p.score}</span></div>`
+    ).join('');
 }
+
 function iniciarMulti(){
-  if(!ws){toast('No conectado','err');return;}
-  ws.send(JSON.stringify({type:'start',room:roomCode,decada:'todas'}));
-  decada='todas';shuffleQueue=[];document.getElementById('chip').textContent='MIX';nueva();go('sg');
+  if(!ablyChannel){toast('No conectado','err');return;}
+  ablyChannel.publish({type:'start',decada:'todas'});
+  decada='todas';shuffleQueue=[];
+  document.getElementById('chip').textContent='MIX';
+  nueva();go('sg');
+}
+
+// Publicar puntaje al ganar en multi
+function publicarPuntaje(){
+  if(ablyChannel) ablyChannel.publish({type:'score',name:playerName,score});
 }
 
 // ══ Toast ══
