@@ -358,5 +358,725 @@
       "other": "separated/htdemucs/steve_lacy_bad_habit/other.mp3",
       "vocals": "separated/htdemucs/steve_lacy_bad_habit/vocals.mp3"
     }
+  },
+  {
+    "titulo": "Numb",
+    "artista": "Linkin Park",
+    "año": 2003,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/linkin_park_numb/drums.mp3",
+      "bass": "separated/htdemucs/linkin_park_numb/bass.mp3",
+      "other": "separated/htdemucs/linkin_park_numb/other.mp3",
+      "vocals": "separated/htdemucs/linkin_park_numb/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "In the End",
+    "artista": "Linkin Park",
+    "año": 2001,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/linkin_park_in_the_end/drums.mp3",
+      "bass": "separated/htdemucs/linkin_park_in_the_end/bass.mp3",
+      "other": "separated/htdemucs/linkin_park_in_the_end/other.mp3",
+      "vocals": "separated/htdemucs/linkin_park_in_the_end/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Seven Nation Army",
+    "artista": "The White Stripes",
+    "año": 2003,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/the_white_stripes_seven_nation_army/drums.mp3",
+      "bass": "separated/htdemucs/the_white_stripes_seven_nation_army/bass.mp3",
+      "other": "separated/htdemucs/the_white_stripes_seven_nation_army/other.mp3",
+      "vocals": "separated/htdemucs/the_white_stripes_seven_nation_army/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Toxic",
+    "artista": "Britney Spears",
+    "año": 2003,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/britney_spears_toxic/drums.mp3",
+      "bass": "separated/htdemucs/britney_spears_toxic/bass.mp3",
+      "other": "separated/htdemucs/britney_spears_toxic/other.mp3",
+      "vocals": "separated/htdemucs/britney_spears_toxic/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Complicated",
+    "artista": "Avril Lavigne",
+    "año": 2002,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/avril_lavigne_complicated/drums.mp3",
+      "bass": "separated/htdemucs/avril_lavigne_complicated/bass.mp3",
+      "other": "separated/htdemucs/avril_lavigne_complicated/other.mp3",
+      "vocals": "separated/htdemucs/avril_lavigne_complicated/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Sk8er Boi",
+    "artista": "Avril Lavigne",
+    "año": 2002,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/avril_lavigne_sk8er_boi/drums.mp3",
+      "bass": "separated/htdemucs/avril_lavigne_sk8er_boi/bass.mp3",
+      "other": "separated/htdemucs/avril_lavigne_sk8er_boi/other.mp3",
+      "vocals": "separated/htdemucs/avril_lavigne_sk8er_boi/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Umbrella",
+    "artista": "Rihanna",
+    "año": 2007,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/rihanna_umbrella/drums.mp3",
+      "bass": "separated/htdemucs/rihanna_umbrella/bass.mp3",
+      "other": "separated/htdemucs/rihanna_umbrella/other.mp3",
+      "vocals": "separated/htdemucs/rihanna_umbrella/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "This Love",
+    "artista": "Maroon 5",
+    "año": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/maroon_5_this_love/drums.mp3",
+      "bass": "separated/htdemucs/maroon_5_this_love/bass.mp3",
+      "other": "separated/htdemucs/maroon_5_this_love/other.mp3",
+      "vocals": "separated/htdemucs/maroon_5_this_love/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Feel Good Inc",
+    "artista": "Gorillaz",
+    "año": 2005,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/gorillaz_feel_good_inc/drums.mp3",
+      "bass": "separated/htdemucs/gorillaz_feel_good_inc/bass.mp3",
+      "other": "separated/htdemucs/gorillaz_feel_good_inc/other.mp3",
+      "vocals": "separated/htdemucs/gorillaz_feel_good_inc/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Hips Don't Lie",
+    "artista": "Shakira",
+    "año": 2006,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/shakira_hips_dont_lie/drums.mp3",
+      "bass": "separated/htdemucs/shakira_hips_dont_lie/bass.mp3",
+      "other": "separated/htdemucs/shakira_hips_dont_lie/other.mp3",
+      "vocals": "separated/htdemucs/shakira_hips_dont_lie/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Gold Digger",
+    "artista": "Kanye West",
+    "año": 2005,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/kanye_west_gold_digger/drums.mp3",
+      "bass": "separated/htdemucs/kanye_west_gold_digger/bass.mp3",
+      "other": "separated/htdemucs/kanye_west_gold_digger/other.mp3",
+      "vocals": "separated/htdemucs/kanye_west_gold_digger/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Hollaback Girl",
+    "artista": "Gwen Stefani",
+    "año": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/gwen_stefani_hollaback_girl/drums.mp3",
+      "bass": "separated/htdemucs/gwen_stefani_hollaback_girl/bass.mp3",
+      "other": "separated/htdemucs/gwen_stefani_hollaback_girl/other.mp3",
+      "vocals": "separated/htdemucs/gwen_stefani_hollaback_girl/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Fix You",
+    "artista": "Coldplay",
+    "año": 2005,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/coldplay_fix_you/drums.mp3",
+      "bass": "separated/htdemucs/coldplay_fix_you/bass.mp3",
+      "other": "separated/htdemucs/coldplay_fix_you/other.mp3",
+      "vocals": "separated/htdemucs/coldplay_fix_you/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "La Camisa Negra",
+    "artista": "Juanes",
+    "año": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/juanes_la_camisa_negra/drums.mp3",
+      "bass": "separated/htdemucs/juanes_la_camisa_negra/bass.mp3",
+      "other": "separated/htdemucs/juanes_la_camisa_negra/other.mp3",
+      "vocals": "separated/htdemucs/juanes_la_camisa_negra/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "A Dios Le Pido",
+    "artista": "Juanes",
+    "año": 2002,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/juanes_a_dios_le_pido/drums.mp3",
+      "bass": "separated/htdemucs/juanes_a_dios_le_pido/bass.mp3",
+      "other": "separated/htdemucs/juanes_a_dios_le_pido/other.mp3",
+      "vocals": "separated/htdemucs/juanes_a_dios_le_pido/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Inevitable",
+    "artista": "Shakira",
+    "año": 2001,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/shakira_inevitable/drums.mp3",
+      "bass": "separated/htdemucs/shakira_inevitable/bass.mp3",
+      "other": "separated/htdemucs/shakira_inevitable/other.mp3",
+      "vocals": "separated/htdemucs/shakira_inevitable/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Livin la Vida Loca",
+    "artista": "Ricky Martin",
+    "año": 1999,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/ricky_martin_livin_la_vida_loca/drums.mp3",
+      "bass": "separated/htdemucs/ricky_martin_livin_la_vida_loca/bass.mp3",
+      "other": "separated/htdemucs/ricky_martin_livin_la_vida_loca/other.mp3",
+      "vocals": "separated/htdemucs/ricky_martin_livin_la_vida_loca/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Gasolina",
+    "artista": "Daddy Yankee",
+    "año": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/daddy_yankee_gasolina/drums.mp3",
+      "bass": "separated/htdemucs/daddy_yankee_gasolina/bass.mp3",
+      "other": "separated/htdemucs/daddy_yankee_gasolina/other.mp3",
+      "vocals": "separated/htdemucs/daddy_yankee_gasolina/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Lo Que Paso Paso",
+    "artista": "Daddy Yankee",
+    "año": 2004,
+    "decada": "2000s",
+    "stems": {
+      "drums": "separated/htdemucs/daddy_yankee_lo_que_paso_paso/drums.mp3",
+      "bass": "separated/htdemucs/daddy_yankee_lo_que_paso_paso/bass.mp3",
+      "other": "separated/htdemucs/daddy_yankee_lo_que_paso_paso/other.mp3",
+      "vocals": "separated/htdemucs/daddy_yankee_lo_que_paso_paso/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Uptown Funk",
+    "artista": "Mark Ronson",
+    "año": 2014,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/mark_ronson_uptown_funk/drums.mp3",
+      "bass": "separated/htdemucs/mark_ronson_uptown_funk/bass.mp3",
+      "other": "separated/htdemucs/mark_ronson_uptown_funk/other.mp3",
+      "vocals": "separated/htdemucs/mark_ronson_uptown_funk/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Stay With Me",
+    "artista": "Sam Smith",
+    "año": 2014,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/sam_smith_stay_with_me/drums.mp3",
+      "bass": "separated/htdemucs/sam_smith_stay_with_me/bass.mp3",
+      "other": "separated/htdemucs/sam_smith_stay_with_me/other.mp3",
+      "vocals": "separated/htdemucs/sam_smith_stay_with_me/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Take Me to Church",
+    "artista": "Hozier",
+    "año": 2013,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/hozier_take_me_to_church/drums.mp3",
+      "bass": "separated/htdemucs/hozier_take_me_to_church/bass.mp3",
+      "other": "separated/htdemucs/hozier_take_me_to_church/other.mp3",
+      "vocals": "separated/htdemucs/hozier_take_me_to_church/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Shake It Off",
+    "artista": "Taylor Swift",
+    "año": 2014,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/taylor_swift_shake_it_off/drums.mp3",
+      "bass": "separated/htdemucs/taylor_swift_shake_it_off/bass.mp3",
+      "other": "separated/htdemucs/taylor_swift_shake_it_off/other.mp3",
+      "vocals": "separated/htdemucs/taylor_swift_shake_it_off/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Can't Stop the Feeling",
+    "artista": "Justin Timberlake",
+    "año": 2016,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/justin_timberlake_cant_stop_the_feeling/drums.mp3",
+      "bass": "separated/htdemucs/justin_timberlake_cant_stop_the_feeling/bass.mp3",
+      "other": "separated/htdemucs/justin_timberlake_cant_stop_the_feeling/other.mp3",
+      "vocals": "separated/htdemucs/justin_timberlake_cant_stop_the_feeling/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Stressed Out",
+    "artista": "Twenty One Pilots",
+    "año": 2015,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/twenty_one_pilots_stressed_out/drums.mp3",
+      "bass": "separated/htdemucs/twenty_one_pilots_stressed_out/bass.mp3",
+      "other": "separated/htdemucs/twenty_one_pilots_stressed_out/other.mp3",
+      "vocals": "separated/htdemucs/twenty_one_pilots_stressed_out/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Closer",
+    "artista": "The Chainsmokers",
+    "año": 2016,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/the_chainsmokers_closer/drums.mp3",
+      "bass": "separated/htdemucs/the_chainsmokers_closer/bass.mp3",
+      "other": "separated/htdemucs/the_chainsmokers_closer/other.mp3",
+      "vocals": "separated/htdemucs/the_chainsmokers_closer/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Despacito",
+    "artista": "Luis Fonsi",
+    "año": 2017,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/luis_fonsi_despacito/drums.mp3",
+      "bass": "separated/htdemucs/luis_fonsi_despacito/bass.mp3",
+      "other": "separated/htdemucs/luis_fonsi_despacito/other.mp3",
+      "vocals": "separated/htdemucs/luis_fonsi_despacito/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Mi Gente",
+    "artista": "J Balvin",
+    "año": 2017,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/j_balvin_mi_gente/drums.mp3",
+      "bass": "separated/htdemucs/j_balvin_mi_gente/bass.mp3",
+      "other": "separated/htdemucs/j_balvin_mi_gente/other.mp3",
+      "vocals": "separated/htdemucs/j_balvin_mi_gente/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Love Yourself",
+    "artista": "Justin Bieber",
+    "año": 2015,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/justin_bieber_love_yourself/drums.mp3",
+      "bass": "separated/htdemucs/justin_bieber_love_yourself/bass.mp3",
+      "other": "separated/htdemucs/justin_bieber_love_yourself/other.mp3",
+      "vocals": "separated/htdemucs/justin_bieber_love_yourself/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Sorry",
+    "artista": "Justin Bieber",
+    "año": 2015,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/justin_bieber_sorry/drums.mp3",
+      "bass": "separated/htdemucs/justin_bieber_sorry/bass.mp3",
+      "other": "separated/htdemucs/justin_bieber_sorry/other.mp3",
+      "vocals": "separated/htdemucs/justin_bieber_sorry/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Havana",
+    "artista": "Camila Cabello",
+    "año": 2017,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/camila_cabello_havana/drums.mp3",
+      "bass": "separated/htdemucs/camila_cabello_havana/bass.mp3",
+      "other": "separated/htdemucs/camila_cabello_havana/other.mp3",
+      "vocals": "separated/htdemucs/camila_cabello_havana/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Perfect",
+    "artista": "Ed Sheeran",
+    "año": 2017,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/ed_sheeran_perfect/drums.mp3",
+      "bass": "separated/htdemucs/ed_sheeran_perfect/bass.mp3",
+      "other": "separated/htdemucs/ed_sheeran_perfect/other.mp3",
+      "vocals": "separated/htdemucs/ed_sheeran_perfect/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Thunder",
+    "artista": "Imagine Dragons",
+    "año": 2017,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/imagine_dragons_thunder/drums.mp3",
+      "bass": "separated/htdemucs/imagine_dragons_thunder/bass.mp3",
+      "other": "separated/htdemucs/imagine_dragons_thunder/other.mp3",
+      "vocals": "separated/htdemucs/imagine_dragons_thunder/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Believer",
+    "artista": "Imagine Dragons",
+    "año": 2017,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/imagine_dragons_believer/drums.mp3",
+      "bass": "separated/htdemucs/imagine_dragons_believer/bass.mp3",
+      "other": "separated/htdemucs/imagine_dragons_believer/other.mp3",
+      "vocals": "separated/htdemucs/imagine_dragons_believer/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Propuesta Indecente",
+    "artista": "Romeo Santos",
+    "año": 2013,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/romeo_santos_propuesta_indecente/drums.mp3",
+      "bass": "separated/htdemucs/romeo_santos_propuesta_indecente/bass.mp3",
+      "other": "separated/htdemucs/romeo_santos_propuesta_indecente/other.mp3",
+      "vocals": "separated/htdemucs/romeo_santos_propuesta_indecente/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Darte un Beso",
+    "artista": "Prince Royce",
+    "año": 2012,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/prince_royce_darte_un_beso/drums.mp3",
+      "bass": "separated/htdemucs/prince_royce_darte_un_beso/bass.mp3",
+      "other": "separated/htdemucs/prince_royce_darte_un_beso/other.mp3",
+      "vocals": "separated/htdemucs/prince_royce_darte_un_beso/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Me Rehuso",
+    "artista": "Danny Ocean",
+    "año": 2016,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/danny_ocean_me_rehuso/drums.mp3",
+      "bass": "separated/htdemucs/danny_ocean_me_rehuso/bass.mp3",
+      "other": "separated/htdemucs/danny_ocean_me_rehuso/other.mp3",
+      "vocals": "separated/htdemucs/danny_ocean_me_rehuso/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Waka Waka",
+    "artista": "Shakira",
+    "año": 2010,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/shakira_waka_waka/drums.mp3",
+      "bass": "separated/htdemucs/shakira_waka_waka/bass.mp3",
+      "other": "separated/htdemucs/shakira_waka_waka/other.mp3",
+      "vocals": "separated/htdemucs/shakira_waka_waka/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Chantaje",
+    "artista": "Shakira",
+    "año": 2016,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/shakira_chantaje/drums.mp3",
+      "bass": "separated/htdemucs/shakira_chantaje/bass.mp3",
+      "other": "separated/htdemucs/shakira_chantaje/other.mp3",
+      "vocals": "separated/htdemucs/shakira_chantaje/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Con Calma",
+    "artista": "Daddy Yankee",
+    "año": 2019,
+    "decada": "2010s",
+    "stems": {
+      "drums": "separated/htdemucs/daddy_yankee_con_calma/drums.mp3",
+      "bass": "separated/htdemucs/daddy_yankee_con_calma/bass.mp3",
+      "other": "separated/htdemucs/daddy_yankee_con_calma/other.mp3",
+      "vocals": "separated/htdemucs/daddy_yankee_con_calma/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "good 4 u",
+    "artista": "Olivia Rodrigo",
+    "año": 2021,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/olivia_rodrigo_good_4_u/drums.mp3",
+      "bass": "separated/htdemucs/olivia_rodrigo_good_4_u/bass.mp3",
+      "other": "separated/htdemucs/olivia_rodrigo_good_4_u/other.mp3",
+      "vocals": "separated/htdemucs/olivia_rodrigo_good_4_u/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Montero",
+    "artista": "Lil Nas X",
+    "año": 2021,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/lil_nas_x_montero/drums.mp3",
+      "bass": "separated/htdemucs/lil_nas_x_montero/bass.mp3",
+      "other": "separated/htdemucs/lil_nas_x_montero/other.mp3",
+      "vocals": "separated/htdemucs/lil_nas_x_montero/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Save Your Tears",
+    "artista": "The Weeknd",
+    "año": 2021,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/the_weeknd_save_your_tears/drums.mp3",
+      "bass": "separated/htdemucs/the_weeknd_save_your_tears/bass.mp3",
+      "other": "separated/htdemucs/the_weeknd_save_your_tears/other.mp3",
+      "vocals": "separated/htdemucs/the_weeknd_save_your_tears/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Easy On Me",
+    "artista": "Adele",
+    "año": 2021,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/adele_easy_on_me/drums.mp3",
+      "bass": "separated/htdemucs/adele_easy_on_me/bass.mp3",
+      "other": "separated/htdemucs/adele_easy_on_me/other.mp3",
+      "vocals": "separated/htdemucs/adele_easy_on_me/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Golden Hour",
+    "artista": "JVKE",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/jvke_golden_hour/drums.mp3",
+      "bass": "separated/htdemucs/jvke_golden_hour/bass.mp3",
+      "other": "separated/htdemucs/jvke_golden_hour/other.mp3",
+      "vocals": "separated/htdemucs/jvke_golden_hour/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Cruel Summer",
+    "artista": "Taylor Swift",
+    "año": 2019,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/taylor_swift_cruel_summer/drums.mp3",
+      "bass": "separated/htdemucs/taylor_swift_cruel_summer/bass.mp3",
+      "other": "separated/htdemucs/taylor_swift_cruel_summer/other.mp3",
+      "vocals": "separated/htdemucs/taylor_swift_cruel_summer/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Dynamite",
+    "artista": "BTS",
+    "año": 2020,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bts_dynamite/drums.mp3",
+      "bass": "separated/htdemucs/bts_dynamite/bass.mp3",
+      "other": "separated/htdemucs/bts_dynamite/other.mp3",
+      "vocals": "separated/htdemucs/bts_dynamite/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Butter",
+    "artista": "BTS",
+    "año": 2021,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bts_butter/drums.mp3",
+      "bass": "separated/htdemucs/bts_butter/bass.mp3",
+      "other": "separated/htdemucs/bts_butter/other.mp3",
+      "vocals": "separated/htdemucs/bts_butter/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Running Up That Hill",
+    "artista": "Kate Bush",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/kate_bush_running_up_that_hill/drums.mp3",
+      "bass": "separated/htdemucs/kate_bush_running_up_that_hill/bass.mp3",
+      "other": "separated/htdemucs/kate_bush_running_up_that_hill/other.mp3",
+      "vocals": "separated/htdemucs/kate_bush_running_up_that_hill/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Physical",
+    "artista": "Dua Lipa",
+    "año": 2020,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/dua_lipa_physical/drums.mp3",
+      "bass": "separated/htdemucs/dua_lipa_physical/bass.mp3",
+      "other": "separated/htdemucs/dua_lipa_physical/other.mp3",
+      "vocals": "separated/htdemucs/dua_lipa_physical/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Dakiti",
+    "artista": "Bad Bunny",
+    "año": 2020,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bad_bunny_dakiti/drums.mp3",
+      "bass": "separated/htdemucs/bad_bunny_dakiti/bass.mp3",
+      "other": "separated/htdemucs/bad_bunny_dakiti/other.mp3",
+      "vocals": "separated/htdemucs/bad_bunny_dakiti/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Titi Me Pregunto",
+    "artista": "Bad Bunny",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bad_bunny_titi_me_pregunto/drums.mp3",
+      "bass": "separated/htdemucs/bad_bunny_titi_me_pregunto/bass.mp3",
+      "other": "separated/htdemucs/bad_bunny_titi_me_pregunto/other.mp3",
+      "vocals": "separated/htdemucs/bad_bunny_titi_me_pregunto/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Me Porto Bonito",
+    "artista": "Bad Bunny",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bad_bunny_me_porto_bonito/drums.mp3",
+      "bass": "separated/htdemucs/bad_bunny_me_porto_bonito/bass.mp3",
+      "other": "separated/htdemucs/bad_bunny_me_porto_bonito/other.mp3",
+      "vocals": "separated/htdemucs/bad_bunny_me_porto_bonito/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Ojitos Lindos",
+    "artista": "Bad Bunny",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bad_bunny_ojitos_lindos/drums.mp3",
+      "bass": "separated/htdemucs/bad_bunny_ojitos_lindos/bass.mp3",
+      "other": "separated/htdemucs/bad_bunny_ojitos_lindos/other.mp3",
+      "vocals": "separated/htdemucs/bad_bunny_ojitos_lindos/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Efecto",
+    "artista": "Bad Bunny",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bad_bunny_efecto/drums.mp3",
+      "bass": "separated/htdemucs/bad_bunny_efecto/bass.mp3",
+      "other": "separated/htdemucs/bad_bunny_efecto/other.mp3",
+      "vocals": "separated/htdemucs/bad_bunny_efecto/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Provenza",
+    "artista": "Karol G",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/karol_g_provenza/drums.mp3",
+      "bass": "separated/htdemucs/karol_g_provenza/bass.mp3",
+      "other": "separated/htdemucs/karol_g_provenza/other.mp3",
+      "vocals": "separated/htdemucs/karol_g_provenza/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Tusa",
+    "artista": "Karol G",
+    "año": 2019,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/karol_g_tusa/drums.mp3",
+      "bass": "separated/htdemucs/karol_g_tusa/bass.mp3",
+      "other": "separated/htdemucs/karol_g_tusa/other.mp3",
+      "vocals": "separated/htdemucs/karol_g_tusa/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Gatubela",
+    "artista": "Karol G",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/karol_g_gatubela/drums.mp3",
+      "bass": "separated/htdemucs/karol_g_gatubela/bass.mp3",
+      "other": "separated/htdemucs/karol_g_gatubela/other.mp3",
+      "vocals": "separated/htdemucs/karol_g_gatubela/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Quevedo Bzrp Session 52",
+    "artista": "Bizarrap",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/bizarrap_quevedo_bzrp_session_52/drums.mp3",
+      "bass": "separated/htdemucs/bizarrap_quevedo_bzrp_session_52/bass.mp3",
+      "other": "separated/htdemucs/bizarrap_quevedo_bzrp_session_52/other.mp3",
+      "vocals": "separated/htdemucs/bizarrap_quevedo_bzrp_session_52/vocals.mp3"
+    }
+  },
+  {
+    "titulo": "Despecha",
+    "artista": "Rosalia",
+    "año": 2022,
+    "decada": "2020s",
+    "stems": {
+      "drums": "separated/htdemucs/rosalia_despecha/drums.mp3",
+      "bass": "separated/htdemucs/rosalia_despecha/bass.mp3",
+      "other": "separated/htdemucs/rosalia_despecha/other.mp3",
+      "vocals": "separated/htdemucs/rosalia_despecha/vocals.mp3"
+    }
   }
 ]
